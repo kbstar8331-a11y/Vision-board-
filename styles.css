@@ -108,7 +108,7 @@ body {
 
 .photo-1 {
   background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(0,0,0,0.12)),
-    url("https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80") center/cover no-repeat;
+    url("fb99ad38-6601-47f3-a673-10d69e652078.jpeg") center/cover no-repeat;
   grid-column: span 2;
   grid-row: span 2;
 }
